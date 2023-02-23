@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Shizotoaster's Flat Capes",
+        "description": "Woah, the cape is flat!!",
+        "uuid": "ecffed42-75f5-402e-ad51-c314b6bdce07",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "38920d6d-cce8-48bf-85a1-92bffb9d6c32",
+            "version": [0, 0, 1]
+        }
+    ]
+}
